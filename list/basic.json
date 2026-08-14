@@ -1,0 +1,48 @@
+[
+  {
+    "title": {
+      "text": "Chrome"
+    },
+    "label": {
+      "name": "New!",
+      "color": "#ff2015"
+    },
+    "description": "40327 visits"
+  },
+  {
+    "title": {
+      "text": "Safari"
+    },
+    "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": {
+      "text": "Firefox"
+    },
+    "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": {
+      "text": "Internet Explorer"
+    },
+    "description": "3587 visits"
+  },
+  {
+    "title": {
+      "text": "Opera"
+    },
+    "description": "499 visits"
+  },
+  {
+    "title": {
+      "text": "Safari"
+    },
+    "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  {
+    "title": {
+      "text": "Firefox"
+    },
+    "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  }
+]

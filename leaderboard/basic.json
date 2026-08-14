@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "label": "Peter",
+      "value": 234000,
+      "previous_rank": 2
+    },
+    {
+      "label": "Patrick",
+      "value": 232000,
+      "previous_rank": 1
+    },
+    {
+      "label": "Jon",
+      "value": 230000
+    },
+    {
+      "label": "Clara",
+      "value": 220000
+    },
+    {
+      "label": "Tom",
+      "value": 215000,
+      "previous_rank": 7
+    },
+    {
+      "label": "Sylvester",
+      "value": 200000
+    },
+    {
+      "label": "David",
+      "value": 195000,
+      "previous_rank": 5
+    },
+    {
+      "label": "Matt",
+      "value": 190000
+    },
+    {
+      "label": "William",
+      "value": 185000
+    },
+    {
+      "label": "Rose",
+      "value": 182000,
+      "previous_rank": 11
+    },
+    {
+      "label": "Colin",
+      "value": 178000,
+      "previous_rank": 10
+    },
+    {
+      "label": "Paul",
+      "value": 172000
+    },
+    {
+      "label": "Amy",
+      "value": 166000
+    },
+    {
+      "label": "Christopher",
+      "value": 162000
+    }
+  ]
+}
