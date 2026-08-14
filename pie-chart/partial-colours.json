@@ -1,0 +1,21 @@
+{
+  "item": [
+    {
+      "value": 100,
+      "label": "May",
+      "color": "13699c"
+    },
+    {
+      "value": 160,
+      "label": "June"
+    },
+    {
+      "value": 300,
+      "label": "July"
+    },
+    {
+      "value": 140,
+      "label": "August"
+    }
+  ]
+}
