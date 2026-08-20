@@ -30,7 +30,8 @@ in the docs has at least one sample.
 
 ### Bullet Graph (`bullet-graph/`)
 
-- `basic.json` — Horizontal bullet with red, amber and green bands, a projected measure, and a comparative marker at 600.
+- `basic.json` — Horizontal bullet with red, amber and green bands, a projected measure, and a comparative marker at 600. Carries a label and a sublabel.
+- `empty-labels.json` — The same payload with the label and sublabel empty. The widget rejects a payload that omits the `label` key altogether ("missing 'label' key"), so an empty string is how a bullet goes without one.
 
 ### Funnel (`funnel/`)
 
